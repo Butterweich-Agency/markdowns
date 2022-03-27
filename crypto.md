@@ -1,4 +1,4 @@
-#How to mine Crypto with us
+# How to mine Crypto with us
 
 ### General Info 
 Many people think that mining simply kills their GPU. This is not true. Mining does not generally hurt a GPU. Mining just utilizes a GPU, which causes heat. Like gaming and video rendering. There are specifications for the electric parts on your GPU board and how long they are able to work under heat. So basically you can mine forever (what many ppl do...) as long as you stay in a safe heat-zone. There are many ways to reduce that heat. Most important is of course cooling. I recommend you to not change anything on your stock one. Just make sure your case can provide fresh cool air. You can underclock (opposite of overclocking) the GPU with if you like to (advanced but effective). You can also set limits in the mining software on how much the GPU should be utilized (only 80% instead of 100% - I do it so the fan is not loud). And to avoid what you are afraid of: You can set 2 temp limits (core and VRAM) which you feel comfortable with. As soon as you reach the limits, the miner will pause until its below the limit again. So if you run this mode, you are safe.
